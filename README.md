@@ -1,6 +1,8 @@
 # used-car-prices
 Building a regression model to understand what features drives the used car prices
 
+Jupyter Notebook : https://github.com/RamyaChowdavaram/used-car-prices/blob/main/used_car_prices.ipynb
+
 **Summary**
 
 This report provides a data-driven analysis of the factors influencing used car prices. Our goal is to help used car dealers optimize their inventory by identifying the key drivers of price fluctuations. Using advanced regression models, we have determined the most impactful features affecting pricing and selected Ridge Regression as the most reliable model for predicting used car prices.
